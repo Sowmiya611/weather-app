@@ -86,7 +86,7 @@ async function updateWeatherInfo(city) {
 
     currentDateTxt.textContent = getCurrentDate()
     console.log(getCurrentDate())
-    weatherSummaryImg.src = `assets/assets/weather/${getWeatherIcon(id)}`
+    weatherSummaryImg.src =  getWeatherIcon(id) 
     
     await updateForecastsInfo(city)
     showDisplaySection(weatherInfoSection)
@@ -125,7 +125,7 @@ function updateForecastItems(weatherData) {
     const forecastItem = `
         <div class="forecast-item">
             <h5 class="forecast-item-date regular-txt">${dateResult}</h5>
-            <img src="assets/assets/weather/${getWeatherIcon(id)}" class="forecast-item-img">
+            <img src="${getWeatherIcon(id)}" class="forecast-item-img">
             <h5 class="forecast-item-temp">${Math.round(temp)} °C</h5>
         </div>
     
@@ -140,3 +140,4 @@ function showDisplaySection(section) {
 
     section.style.display = 'flex'
 }
+
