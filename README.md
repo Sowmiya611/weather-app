@@ -13,7 +13,8 @@ HTML, CSS, JavaScript, OpenWeather API
 
 ### Screenshots
 ![Weather App UI](screenshots/Screenshot%202025-12-30%20174605.png)
-![Weather App UI](screenshots/)
+![Weather App UI](screenshots/Screenshot%202025-12-30%20174641.png)
 
 ### Live Demo
-(Add live demo link if deployed)
+[Live Demo](https://sowmiya-weather-app.netlify.app/)
+
