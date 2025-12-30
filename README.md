@@ -12,7 +12,7 @@ A responsive weather application that fetches and displays real-time weather dat
 HTML, CSS, JavaScript, OpenWeather API
 
 ### Screenshots
-![Weather App UI](screenshots/)
+![Weather App UI](screenshots/Screenshot%202025-12-30%20174605.png)
 
 ### Live Demo
 (Add live demo link if deployed)
