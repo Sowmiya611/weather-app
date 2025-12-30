@@ -13,6 +13,7 @@ HTML, CSS, JavaScript, OpenWeather API
 
 ### Screenshots
 ![Weather App UI](screenshots/Screenshot%202025-12-30%20174605.png)
+![Weather App UI](screenshots/)
 
 ### Live Demo
 (Add live demo link if deployed)
